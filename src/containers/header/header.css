@@ -49,6 +49,8 @@
   background: var(--color-footer);
   border: 2px solid var(--color-footer);
   padding: 0 1rem;
+  outline: none;
+  color: #fff;
   border-radius: 5px 0px 0px 5px;
   color: #3d6184;
 }
